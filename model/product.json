@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 1199.99,
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "inStock": true,
+      "features": [
+        "200MP Camera",
+        "S-Pen Support",
+        "Snapdragon 8 Gen 3",
+        "5000mAh Battery"
+      ],
+      "colors": ["Titanium Black", "Titanium Gray", "Titanium Violet"]
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro 16",
+      "price": 2499.00,
+      "category": "Laptop",
+      "brand": "Apple",
+      "inStock": true,
+      "features": [
+        "M3 Pro Chip",
+        "36GB RAM",
+        "512GB SSD",
+        "16-inch Liquid Retina Display"
+      ],
+      "colors": ["Space Black", "Silver"]
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM5",
+      "price": 399.99,
+      "category": "Headphones",
+      "brand": "Sony",
+      "inStock": false,
+      "features": [
+        "Noise Cancelling",
+        "30-hour Battery",
+        "Touch Controls",
+        "Multipoint Connection"
+      ],
+      "colors": ["Black", "Silver"]
+    }
+  ]
+}

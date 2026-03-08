@@ -6,4 +6,3 @@ grandalf
 pypdf
 jq
 Unstructured[pdf, csv, txt, json]
-langchain-unstructured
