@@ -1,4 +1,7 @@
-# 🚀 LangChain Learning Series
+
+
+
+### 🚀 LangChain Learning Series
 
 A comprehensive, step-by-step guide to building AI applications with **LangChain** and **Google Generative AI**. This repository demonstrates the complete workflow from language models to retrieval-augmented applications.
 
